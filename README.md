@@ -1,0 +1,2 @@
+# Ternarium
+programming language
